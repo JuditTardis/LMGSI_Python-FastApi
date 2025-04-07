@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "nom": "Anna",
+      "cognom": "Martí",
+      "data": { "dia": 5, "mes": 3, "any": 2006 },
+      "email": "anna.marti@example.com",
+      "feina": false,
+      "curs": "SMX1"
+    },
+    {
+      "id": 2,
+      "nom": "Jordi",
+      "cognom": "Solé",
+      "data": { "dia": 22, "mes": 9, "any": 2005 },
+      "email": "jordi.sole@example.com",
+      "feina": true,
+      "curs": "ASIX2"
+    }
+  ]
+  
