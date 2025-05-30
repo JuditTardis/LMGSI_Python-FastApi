@@ -1,32 +1,15 @@
 [
-    {
-      "id": 9,
-      "nom": "Anna",
-      "cognom": "Martí",
-      "data": { "dia": 5, "mes": 3, "any": 2006 },
-      "email": "anna.marti@example.com",
-      "feina": false,
-      "curs": "DAW2"
-    },
-    {
-      "id": 8,
-      "nom": "Jordi",
-      "cognom": "Solé",
-      "data": { "dia": 22, "mes": 9, "any": 2005 },
-      "email": "jordi.sole@example.com",
-      "feina": true,
-      "curs": "ASIX2"
-    },
+    
     {
       "id": 1,
-      "nom": "Pau",
-      "cognom": "Bosch",
+      "nom": "Judit",
+      "cognom": "Arias",
       "data": {
-          "dia": 20,
-          "mes": 6,
-          "any": 1995
+          "dia": 24,
+          "mes": 4,
+          "any": 1996
       },
-      "email": "paubs1@hotmail.com",
+      "email": "ju24_96@hotmail.com",
       "feina": false,
       "curs": "DAW1"
   },
@@ -48,9 +31,9 @@
       "nom": "Toby",
       "cognom": "Flenderson",
       "data": {
-          "dia": "16",
-          "mes": "12",
-          "any": "2000"
+          "dia": 16,
+          "mes": 12,
+          "any": 2000
       },
       "email": "flendersinden@gmail.com",
       "feina": false,
@@ -107,6 +90,24 @@
       "email": "tring",
       "feina": true,
       "curs": "sting"
-  }
+  },
+  {
+      "id": 8,
+      "nom": "Anna",
+      "cognom": "Martí",
+      "data": { "dia": 5, "mes": 3, "any": 2006 },
+      "email": "anna.marti@example.com",
+      "feina": false,
+      "curs": "DAW2"
+    },
+    {
+      "id": 9,
+      "nom": "Jordi",
+      "cognom": "Solé",
+      "data": { "dia": 22, "mes": 9, "any": 2005 },
+      "email": "jordi.sole@example.com",
+      "feina": true,
+      "curs": "ASIX2"
+    }
 ]
   
