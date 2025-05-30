@@ -1,100 +1,106 @@
 [
-    
     {
-      "id": 1,
-      "nom": "Judit",
-      "cognom": "Arias",
-      "data": {
-          "dia": 24,
-          "mes": 4,
-          "any": 1996
-      },
-      "email": "ju24_96@hotmail.com",
-      "feina": false,
-      "curs": "DAW1"
-  },
-  {
-      "id": 2,
-      "nom": "Darius",
-      "cognom": "Mencheaokoak",
-      "data": {
-          "dia": 28,
-          "mes": 2,
-          "any": 1990
-      },
-      "email": "menmenda@hotmail.com",
-      "feina": true,
-      "curs": "DAM2"
-  },
-  {
-      "id": 3,
-      "nom": "Toby",
-      "cognom": "Flenderson",
-      "data": {
-          "dia": 16,
-          "mes": 12,
-          "any": 2000
-      },
-      "email": "flendersinden@gmail.com",
-      "feina": false,
-      "curs": "DAW1"
-  },
-  {
-      "id": 4,
-      "nom": "Michael",
-      "cognom": "Scott",
-      "data": {
-          "dia": 15,
-          "mes": 3,
-          "any": 1965
-      },
-      "email": "michaelscott@dunder-mifflin.com",
-      "feina": true,
-      "curs": "DAW1"
-  },
-  {
-      "id": 5,
-      "nom": "Tom",
-      "cognom": "Nook",
-      "data": {
-          "dia": 23,
-          "mes": 6,
-          "any": 1987
-      },
-      "email": "tomnook@nook.corp",
-      "feina": true,
-      "curs": "DAM2"
-  },
-  {
-      "id": 6,
-      "nom": "Rosa",
-      "cognom": "Melano",
-      "data": {
-          "dia": 1,
-          "mes": 2,
-          "any": 1993
-      },
-      "email": "melarosa@jokemail.com",
-      "feina": true,
-      "curs": "DAM2"
-  },
-  {
-      "id": 7,
-      "nom": "Anna",
-      "cognom": "Martí",
-      "data": { "dia": 5, "mes": 3, "any": 2006 },
-      "email": "anna.marti@example.com",
-      "feina": false,
-      "curs": "DAW2"
+        "id": 1,
+        "nom": "Judit",
+        "cognom": "Arias",
+        "data": {
+            "dia": 24,
+            "mes": 4,
+            "any": 1996
+        },
+        "email": "ju24_96@hotmail.com",
+        "feina": false,
+        "curs": "DAW1"
     },
     {
-      "id": 8,
-      "nom": "Jordi",
-      "cognom": "Solé",
-      "data": { "dia": 22, "mes": 9, "any": 2005 },
-      "email": "jordi.sole@example.com",
-      "feina": true,
-      "curs": "ASIX2"
+        "id": 2,
+        "nom": "Darius",
+        "cognom": "Mencheaokoak",
+        "data": {
+            "dia": 28,
+            "mes": 2,
+            "any": 1990
+        },
+        "email": "menmenda@hotmail.com",
+        "feina": true,
+        "curs": "DAM2"
+    },
+    {
+        "id": 3,
+        "nom": "Toby",
+        "cognom": "Flenderson",
+        "data": {
+            "dia": 16,
+            "mes": 12,
+            "any": 2000
+        },
+        "email": "flendersinden@gmail.com",
+        "feina": false,
+        "curs": "DAW1"
+    },
+    {
+        "id": 5,
+        "nom": "Tom",
+        "cognom": "Nook",
+        "data": {
+            "dia": 23,
+            "mes": 6,
+            "any": 1987
+        },
+        "email": "tomnook@nook.corp",
+        "feina": true,
+        "curs": "DAM2"
+    },
+    {
+        "id": 6,
+        "nom": "Rosa",
+        "cognom": "Melano",
+        "data": {
+            "dia": 1,
+            "mes": 2,
+            "any": 1993
+        },
+        "email": "melarosa@jokemail.com",
+        "feina": true,
+        "curs": "DAM2"
+    },
+    {
+        "id": 7,
+        "nom": "Anna",
+        "cognom": "Mart\u00ed",
+        "data": {
+            "dia": 5,
+            "mes": 3,
+            "any": 2006
+        },
+        "email": "anna.marti@example.com",
+        "feina": false,
+        "curs": "DAW2"
+    },
+    {
+        "id": 8,
+        "nom": "Jordi",
+        "cognom": "Sol\u00e9",
+        "data": {
+            "dia": 22,
+            "mes": 9,
+            "any": 2005
+        },
+        "email": "jordi.sole@example.com",
+        "feina": true,
+        "curs": "ASIX2"
+    },
+    {
+        "nom": "Marc",
+        "cognom": "Llistas",
+        "data": {
+            "dia": 12,
+            "mes": 4,
+            "any": 2000
+        },
+        "email": "hola@quetal.com",
+        "feina": true,
+        "curs": "DAM1",
+        "id": 9
     }
 ]
-  
