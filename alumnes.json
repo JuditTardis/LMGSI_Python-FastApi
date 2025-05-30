@@ -80,19 +80,6 @@
   },
   {
       "id": 7,
-      "nom": "Test",
-      "cognom": "t",
-      "data": {
-          "dia": 2,
-          "mes": 1,
-          "any": 2
-      },
-      "email": "tring",
-      "feina": true,
-      "curs": "sting"
-  },
-  {
-      "id": 8,
       "nom": "Anna",
       "cognom": "Martí",
       "data": { "dia": 5, "mes": 3, "any": 2006 },
@@ -101,7 +88,7 @@
       "curs": "DAW2"
     },
     {
-      "id": 9,
+      "id": 8,
       "nom": "Jordi",
       "cognom": "Solé",
       "data": { "dia": 22, "mes": 9, "any": 2005 },
